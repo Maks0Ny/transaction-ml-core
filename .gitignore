@@ -1,0 +1,31 @@
+# Датасеты и большие файлы данных
+*.csv
+*.tsv
+*.dat
+*.pkl
+*.hdf5
+*.parquet
+
+# Виртуальные окружения Python
+venv/
+.venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Файлы Jupyter Notebook
+.ipynb_checkpoints/
+
+# Локальные настройки VS Code
+.vscode/
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Системные файлы ОС (Windows / macOS)
+Thumbs.db
+.DS_Store

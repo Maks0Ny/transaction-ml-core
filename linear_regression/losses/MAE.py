@@ -10,5 +10,3 @@ class MAE:
         n = len(y_true)
         
         return np.sign(y_pred, y_true)/n
-        
-    

@@ -1,6 +1,6 @@
 import numpy as np
 
-class MSE:
+class MSELoss:
     
     def forward(self, y_true, y_pred):
         return np.mean((y_true - y_pred) ** 2)

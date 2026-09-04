@@ -7,4 +7,6 @@ class LinearRegression:
         self.bias = 0
         self.is_fitted = False
         
+        
+    
     

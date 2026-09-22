@@ -1,6 +1,6 @@
 import numpy as np
 
-class MAE:
+class MAELoss:
     
     def forward(self, y_true: np.ndarray, y_pred: np.ndarray) -> float:
         
